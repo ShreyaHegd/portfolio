@@ -1,9 +1,14 @@
-Personal Website V2 
+# My First Portfolio
 
-Hello! Thanks for visiting my portfolio website repo. This project showcases my growth as a developer and designer over the past year, highlighting what I've learned and created.
+Welcome to my personal portfolio website! This project showcases my work as a Front-End Web Developer over the past year.
 
-What I used
+## Technologies Used
 
-HTML
-CSS
-JAVASCRIPT
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React**
+
+## Contact
+
+Feel free to reach out!
